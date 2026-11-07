@@ -1,8 +1,6 @@
 # skills
 
-Agent skills I use every day with Claude Code, Codex, Cursor, opencode, Gemini and Pi. Each
-directory is one skill, and its `SKILL.md` is the whole interface: the agent reads it when the
-description matches the task.
+My agent skills
 
 | Skill | What it does |
 |---|---|
