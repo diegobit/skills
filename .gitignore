@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+# docextract: compiled Swift helper, built on first use
+docextract/scripts/vision_ocr
